@@ -1,0 +1,2 @@
+# OppositeMassacre
+test for class
